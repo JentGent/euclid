@@ -16,5 +16,4 @@
  When points of intersection are made between two non-intersecting lines/circles, the points and any other construction that depends on the points are colored transparent red, and their positions are random.
 
 ## [Demo](https://raw.githack.com/JentGent/euclid/main/index.html)
-
 <img src='./demo.gif'>
