@@ -6,5 +6,5 @@
  - *Circle*: Create the circle whose center is a point and whose perimeter passes through another point
  - *Intersection*: Create the intersection(s) between a line/circle and a line/circle
 
-## [Demo](raw.githack.com/JentGent/euclid/main/index.html)
-
+## [Demo](https://raw.githack.com/JentGent/euclid/main/index.html)
+<img src='./demo.gif'>
